@@ -4,7 +4,8 @@
       <nav class="navbar navbar-expand navbar-dark bg-dark">
           <div class="nav navbar-nav">
               <router-link to="/" class="nav-item nav-link active">Home </router-link>
-              <router-link to="/employees" class="nav-item nav-link">employees</router-link>
+              <router-link to="/employees" class="nav-item nav-link">Employees</router-link>
+              <router-link to="/graph" class="nav-item nav-link">Graph</router-link>
           </div>
       </nav>
     <router-view/>
