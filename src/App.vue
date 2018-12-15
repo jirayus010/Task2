@@ -4,7 +4,6 @@
       <nav class="navbar navbar-expand navbar-dark bg-dark">
           <div class="nav navbar-nav">
               <router-link to="/" class="nav-item nav-link active">Home </router-link>
-              <router-link to="/about" class="nav-item nav-link">About</router-link>
               <router-link to="/employees" class="nav-item nav-link">employees</router-link>
           </div>
       </nav>
